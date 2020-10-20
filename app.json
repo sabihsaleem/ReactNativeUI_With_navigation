@@ -1,0 +1,12 @@
+{
+  "name": "MobileCSSapp",
+  "displayName": "MobileCSSapp",
+  "expo": {
+    "name": "MobileCSSapp",
+    "slug": "MobileCSSapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
